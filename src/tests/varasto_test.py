@@ -66,7 +66,7 @@ class TestVarasto(unittest.TestCase):
         self.assertAlmostEqual(self.varasto.paljonko_mahtuu(), 10)
 
     def test_string(self):
-        print(self.varasto);
+        print(self.varasto)
 
 
 
